@@ -1,2 +1,1 @@
-# mi primer repositorio
-Repositorio de pruebas para actividad de practicas ASIR en Github 
+Soy estudiante en prácticas de SMR
